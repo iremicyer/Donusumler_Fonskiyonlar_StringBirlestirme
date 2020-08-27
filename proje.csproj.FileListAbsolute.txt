@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\proje\proje\bin\Debug\netcoreapp3.1\proje.exe
+C:\Users\Administrator\source\repos\proje\proje\bin\Debug\netcoreapp3.1\proje.deps.json
+C:\Users\Administrator\source\repos\proje\proje\bin\Debug\netcoreapp3.1\proje.runtimeconfig.json
+C:\Users\Administrator\source\repos\proje\proje\bin\Debug\netcoreapp3.1\proje.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\proje\proje\bin\Debug\netcoreapp3.1\proje.dll
+C:\Users\Administrator\source\repos\proje\proje\bin\Debug\netcoreapp3.1\proje.pdb
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.dll
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.pdb
+C:\Users\Administrator\source\repos\proje\proje\obj\Debug\netcoreapp3.1\proje.genruntimeconfig.cache
